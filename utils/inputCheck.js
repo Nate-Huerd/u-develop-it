@@ -19,5 +19,3 @@ module.exports = function(obj, ...props) {
   
   return null;
 };
-
-// 12.1.6
