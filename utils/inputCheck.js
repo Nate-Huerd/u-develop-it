@@ -19,3 +19,4 @@ module.exports = function(obj, ...props) {
   
   return null;
 };
+// 12.2.3
